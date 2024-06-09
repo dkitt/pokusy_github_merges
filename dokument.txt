@@ -1,4 +1,4 @@
 Toto je pocatecni stav dokumentu.
 Udelal jsem zmeny ve vetvi dev.
-Dalsi vyvoj na devu - zmena 2
+Radku 3 jsme zmenili ve vetvi: feat1
 Jeste jedna zmena - zmena 3
