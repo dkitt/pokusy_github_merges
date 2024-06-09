@@ -2,3 +2,4 @@ Toto je pocatecni stav dokumentu.
 Udelal jsem zmeny ve vetvi dev.
 RADKA ZMENENA VE FEAT2  222222222222
 Jeste jedna zmena - zmena 3
+Tato radka byla pridana ve vetvi another_feature
